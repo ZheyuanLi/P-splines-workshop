@@ -1,0 +1,13 @@
+Package: psplwork
+Version: 1.0
+Date: 2022-10-19
+Title: P-Splines Workshop
+Authors@R: person("Zheyuan", "Li", role = c("aut", "cre"),
+                   email = "zheyuan.li@bath.edu",
+                   comment = c(ORCID = "0000-0002-7434-5947"))
+Author: Zheyuan Li [aut, cre] (<https://orcid.org/0000-0002-7434-5947>)
+Maintainer: Zheyuan Li <zheyuan.li@bath.edu>
+Depends: R (>= 4.0.0)
+Description: P-Splines Workshop.
+License: GPL-3
+NeedsCompilation: no
